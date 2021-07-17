@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ad7d8843-ca9c-4fe4-8468-2f4ed9f2523a" name="SO_SERVER" url="">
+        <fileTransfer rootFolder="/var/so_ejers" accessType="SFTP" host="173.249.14.41" port="22" sshConfigId="e3ea2118-202c-429c-bebc-8d0cabb0e678" sshConfig="root@173.249.14.41:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
